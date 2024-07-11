@@ -1,38 +1,27 @@
-<!DOCTYPE html>
-<html>
-<head>
-table, th, td {
-  border: 1px solid black;
-  padding: 5px;
-}
-table {
-  border-spacing: 10px;
-}
-</head>
+<!Doctype Html>
 
-<h2>MY WEBSITE XYREZZ HOSTING</h2>
-<p>MY PROJECT XYREZZ HOSTING</p>
+<Html>
 
-<table style="width:100%">
-  <tr>
-    <th><a href="https://t.me/rerez_x_hosting">XYREZZ HOSTING</a></th>
-    <th><a href="https://t.me/rerez_x_hosting">XYREZZ HOSTING</a></th> 
-  </tr>
-  <tr>
-    <td><a href="https://t.me/rerez_x_hosting">XYREZZ HOSTING</a></td>
-    <td><a href="https://t.me/rerez_x_hosting">XYREZZ HOSTING</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://t.me/rerez_x_hosting">XYREZZ HOSTING</a></td>
-    <td><a href="https://t.me/rerez_x_hosting">XYREZZ HOSTING</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://t.me/rerez_x_hosting">XYREZZ HOSTING</a></td>
-    <td><a href="https://t.me/rerez_x_hosting">XYREZZ HOSTING</a></td>
-  </tr>
-</table>
-<p>IM XYREZZ HOSTING</p>
+<Head>
+
+<Title>
+
+Cara mengatur gambar di sebelah kanan
+
+</Title>
+
+</Head>
+
+<Body>
+
+Hello!
+
+<p>Website ini memberikan informasi bagaimana cara mengatur posisi gambar.
+
+<img align="right" src="https://image3.mouthshut.com/images/ImagesR/imageuser_m/2017/11/925747536-4559193-1.png?rnd=38062" width="100" height="100" >
+
+</p>
 
 </body>
+
 </html>
-</body>
